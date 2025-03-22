@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="products.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product id="1">
+        <name>Laptop Computer</name>
+        <description>High-performance laptop with 16GB RAM</description>
+        <price>999.99</price>
+        <sku>COM-LC-003</sku>
+        <category>Computers</category>
+        <inStock>true</inStock>
+    </product>
+    <product id="2">
+        <name>Wireless Mouse</name>
+        <description>Ergonomic wireless mouse with long battery life</description>
+        <price>29.99</price>
+        <sku>ACC-WM-001</sku>
+        <category>Accessories</category>
+        <inStock>true</inStock>
+    </product>
+</products>
