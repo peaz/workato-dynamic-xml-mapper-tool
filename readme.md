@@ -142,6 +142,12 @@ A recursive method used to construct XML documents from the input data. It:
 
 ## Installation
 
+1. Go to [Dynamic XML Mapper custom connector page](https://app.workato.com/custom_adapters/932640?token=50d8f8a96bef0ac2932543174e69c26686eeb01ae2c6f06c252e4370c3bde531).
+2. Install the connector to your own workspace.
+3. Release the connector for use in your workspace.
+
+## Create your own
+
 1. Copy the SDK source code from [xsd-xml-tool.rb](/workato-sdk/xsd-xml-tool.rb)
 2. Upload the `xsd-xml-tool.rb` file to your Workato Custom SDK.
 
